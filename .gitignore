@@ -1,3 +1,21 @@
 .env
 .env.*
 helpers/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE configurations
+.idea/
+.vscode/
+
+# Local uploads
+uploads/
